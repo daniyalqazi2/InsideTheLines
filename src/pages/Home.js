@@ -23,10 +23,10 @@ const Home = () => {
       <section className="social-media">
         <h2>Follow Us</h2>
         <div className="social-icons">
-          <a href="https://www.youtube.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.youtube.com/@InsideTheLinesI-95" target="_blank" rel="noopener noreferrer">
             <img src="/youtube-icon.png" alt="YouTube" />
           </a>
-          <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/insidethelinesinc/?hl=en" target="_blank" rel="noopener noreferrer">
             <img src="/instagram-icon.png" alt="Instagram" />
           </a>
           <a href="https://www.tiktok.com" target="_blank" rel="noopener noreferrer">
