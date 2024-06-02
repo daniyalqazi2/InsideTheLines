@@ -1,0 +1,24 @@
+.episodes {
+    margin-top: 2rem;
+  }
+  .episode-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 2rem;
+  }
+  .episode {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 5px;
+    background: #fff;
+  }
+  .listen-button {
+    background: #ff6347;
+    color: white;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 0.5rem;
+  }
+  
